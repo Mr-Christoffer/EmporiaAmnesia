@@ -1,0 +1,4 @@
+class Toiletstall : Location
+{
+    
+}
