@@ -1,4 +1,4 @@
-class Roof:Location 
+class Roof : Location
 {
-    
+
 }
